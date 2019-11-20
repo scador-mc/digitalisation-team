@@ -18,8 +18,8 @@ sections:
 - type: intro
   template: intro
   title: World Domination! NOW!
-  subtitle: "Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  \ncol
-    accumsan est arcu donec sed Eleifend Integer."
+  subtitle: Transfering idea into Minimum Viable Product is just the beginning. We
+    will guide you how to convert your project from outsourcing to in-house competence.
   section_id: intro
   background_style: style1
   actions:
